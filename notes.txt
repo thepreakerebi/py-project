@@ -1,0 +1,13 @@
+This is a note on file operations using Python
+This is the second line of this file
+And this is the third line of the file
+While this is the fourth line of this file
+This is a new line
+This is a new line
+This is a new line
+This is a new line
+This is a new line
+This is a new line
+This is a new line
+This is a new line
+This is a new line
